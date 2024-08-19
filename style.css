@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+body{
+    background-color: #3AAFA9;
+}
+.head{
+    padding: 10px 50px;
+    
+}
+#h3{
+    width:65%;
+    margin-left: 40px;
+    font-size: 40px;
+    color :#17252a;
+}
+.parent{
+    width: 100%;
+    margin-top: 30px;
+    padding-left: 40px;
+}
+.one{
+    display: inline-block;
+    padding: 10px;
+    color :#0e2c39;
+}
+.head p{
+    font-size: 23px;
+}
+select,option{
+    text-align: center;
+    font-size: 18px;
+    color: #17252a;
+
+}
+p{
+    padding-right: 30px;
+    margin-top: 20px;
+}
+.two{
+    display: inline;
+    width: 60%;
+}
+h1,h2,h3,h4,h5,h6{
+    margin-top: 20px;
+}
+.main{
+    width:100%;
+    margin-top: 0px;
+    margin-left: 0;
+}
+.main2{
+    display: inline-block;
+    width:35%;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+#h1{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 0px;
+    font-weight: bold;
+
+
+}
+
+.main2 h2{
+    margin-top: 90px;
+    display: inline-block;
+    padding: 5px;
+    background-color: #17252a;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+.main2 h2:hover{
+    margin-top: 90px;
+    display: inline-block;
+    padding: 5px;
+    background-color: white;
+    color: #17252a;
+    font-size: 30px;
+
+}
+.main3{
+    margin-top: 120px;
+    margin-left: 60px;
+
+}
+
+.image{
+    width: 33%;
+    display: inline-block;
+    height: 400px;
+}
+.main4{
+    padding-left: 60px;
+    padding-top: 40px;
+}
+.image h1{
+    display: inline-block;
+    color: #17252a;
+}
+img{
+    width: 80%;
+}
+.main4 p{
+    width:80%
+}
+.image h3{
+    margin-top: 20px;
+    display: inline-block;
+    padding: 5px;
+    background-color: #17252a;
+    color: white;
+    transition: 0.4s ease;
+}
+.image h3:hover{
+    margin-top: 20px;
+    display: inline-block;
+    padding: 5px;
+    background-color: white;
+    color: #17252a;
+    cursor: pointer;
+    font-size: 25px;
+}
+.main5{
+    width:400px;
+    margin-left: 38%;
+    margin-top: 60px;
+    padding:40px 0;
+}
+.main3 h2{
+    font-size: 45px;
+}
+.main3 h3{
+    font-size: 25px;
+}
+.last{
+    width: 100%;
+    background-color: #17252a;
+
+}
+.text{
+    font-size: 20px;
+    padding: 5px;
+}
+input{
+    width: 400px;
+    height: 40px;
+}
+.main5 h2{
+    font-size: 40px;
+}
+.main2 select{
+    margin-top:80px;
+    display: block;
+    width: 600px;
+    height: 60px;
+    border: 2px solid black;
+}
+select{
+    margin-top:10px;
+    display: block;
+    width: 400px;
+    height: 40px;
+    border: 2px solid black;
+}
